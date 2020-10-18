@@ -53,7 +53,7 @@
   "MainMenuPlayServerListString": "SERVERLIJST",
   "MainMenuPlayFriendsString": "VRIENDEN",
   "MainMenuSteamLobbyString": "Steam Lobby",
-  "LobbyWaitingForMasterString": "Het spel begint zo.\nWachten op lobby master...",
+  "LobbyWaitingForMasterString": "Het spel begint zo.\nWachten op lobby beheerder...",
   "LobbyNotEnoughPlayersString": "Er zijn nog niet genoeg spelers om te beginnen (vereiste aantal spelers: %MINIMUMPLAYERS%)",
   "LobbyStartingInString": "Het spel begint in %TIMER% seconden",
   "LobbyStartingNowString": "Het spel begint nu!",
