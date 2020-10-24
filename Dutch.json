@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 7,
   "DeathTextString": "werd gedood door",
   "SCP008String": "SCP-008",
   "UnknownString": "een onbekende oorsprong",
@@ -29,6 +29,7 @@
   "InteractKeycardSuccess": "Toegang verleend.",
   "InteractNothing": "Niks is gebeurd.",
   "InteractSuccess": "Interactie succesvol!",
+  "InteractSCP1123NoTouch": "\"Ik zou het waarschijnlijk niet moeten aanraken...\"",
   "PlayerEscapePostfix": " is de faciliteit ontsnapt!",
   "RoundEndString": "Volgende ronde start in %s% seconden",
   "PizzaTooHot": "De pizza is te heet om aan te raken.",
@@ -58,6 +59,11 @@
   "LobbyStartingInString": "Het spel begint in %TIMER% seconden",
   "LobbyStartingNowString": "Het spel begint nu!",
   "LobbyStartVoteCountString": "%VOTECOUNT% van de %VOTEMIN% speler(s) hebben gestemt, er zijn nog %STILLNEEDEDVOTES% stemmen nodig",
+  "MainMenuExitString": "STOPPEN",
+  "PlayerAdminMenuNoTargetString": "Geen doelwit",
+  "PlayerAdminMenuNoBlinkString": "Geen knippering",
+  "WorldAdminMenuForceRoundEndString": "Beëindig ronde",
+  "RoundForceEndedString": "Ronde is beëindigd door een admin",
   "NPCNames": {},
   "MissionNames": {}
 }
