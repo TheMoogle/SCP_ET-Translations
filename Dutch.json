@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "DeathTextString": "werd gedood door",
   "SCP008String": "SCP-008",
   "UnknownString": "een onbekende oorsprong",
@@ -53,6 +53,11 @@
   "MainMenuPlayServerListString": "SERVERLIJST",
   "MainMenuPlayFriendsString": "VRIENDEN",
   "MainMenuSteamLobbyString": "Steam Lobby",
+  "LobbyWaitingForMasterString": "Het spel begint zo.\nWachten op lobby beheerder...",
+  "LobbyNotEnoughPlayersString": "Er zijn nog niet genoeg spelers om te beginnen (vereiste aantal spelers: %MINIMUMPLAYERS%)",
+  "LobbyStartingInString": "Het spel begint in %TIMER% seconden",
+  "LobbyStartingNowString": "Het spel begint nu!",
+  "LobbyStartVoteCountString": "%VOTECOUNT% van de %VOTEMIN% speler(s) hebben gestemt, er zijn nog %STILLNEEDEDVOTES% stemmen nodig",
   "NPCNames": {},
   "MissionNames": {}
 }
