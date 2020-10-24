@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 7,
   "DeathTextString": "was killed by",
   "SCP008String": "SCP-008",
   "UnknownString": "an unknown source",
@@ -29,6 +29,7 @@
   "InteractKeycardSuccess": "Access Granted.",
   "InteractNothing": "Nothing happened.",
   "InteractSuccess": "",
+  "InteractSCP1123NoTouch": "\"I probably shouldn't touch it...\"",
   "PlayerEscapePostfix": " has escaped the facility!",
   "RoundEndString": "Next round in %s% seconds",
   "PizzaTooHot": "The pizza is too hot to touch.",
@@ -58,6 +59,11 @@
   "LobbyStartingInString": "Starting in %TIMER% seconds",
   "LobbyStartingNowString": "Starting now!",
   "LobbyStartVoteCountString": "%VOTECOUNT% out of %VOTEMIN% player(s) have voted, %STILLNEEDEDVOTES% extra votes required",
+  "MainMenuExitString": "EXIT",
+  "PlayerAdminMenuNoTargetString": "No target",
+  "PlayerAdminMenuNoBlinkString": "No blink",
+  "WorldAdminMenuForceRoundEndString": "End round",
+  "RoundForceEndedString": "Round was ended by an admin",
   "NPCNames": {},
   "MissionNames": {}
 }
