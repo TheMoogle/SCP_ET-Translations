@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "DeathTextString": "was killed by",
   "SCP008String": "SCP-008",
   "UnknownString": "an unknown source",
@@ -64,6 +64,8 @@
   "PlayerAdminMenuNoBlinkString": "No blink",
   "WorldAdminMenuForceRoundEndString": "End round",
   "RoundForceEndedString": "Round was ended by an admin",
+  "PlayerAdminMenuMuteString": "Mute",
+  "PlayerAdminMenuUnmuteString": "Unmute",
   "NPCNames": {},
   "MissionNames": {}
 }
