@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "DeathTextString": "werd gedood door",
   "SCP008String": "SCP-008",
   "UnknownString": "een onbekende oorsprong",
@@ -64,6 +64,8 @@
   "PlayerAdminMenuNoBlinkString": "Geen knippering",
   "WorldAdminMenuForceRoundEndString": "Beëindig ronde",
   "RoundForceEndedString": "Ronde is beëindigd door een admin",
+  "PlayerAdminMenuMuteString": "Dempen",
+  "PlayerAdminMenuUnmuteString": "Dempen opheffen",
   "NPCNames": {},
   "MissionNames": {}
 }
