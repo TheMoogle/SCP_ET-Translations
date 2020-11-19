@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "DeathTextString": "blev dræbt af",
   "SCP008String": "SCP-008",
   "UnknownString": "en ukendt kilde",
@@ -62,6 +62,8 @@
   "MainMenuExitString": "AFSLUTTE",
   "PlayerAdminMenuNoTargetString": "Intet mål",
   "PlayerAdminMenuNoBlinkString": "Ingen blink",
+  "PlayerAdminMenuMuteString": "Mute",
+  "PlayerAdminMenuUnmuteString": "Unmute",
   "WorldAdminMenuForceRoundEndString": "Afslut runde",
   "RoundForceEndedString": "Runden blev afsluttet af en administrator",
   "NPCNames": {},
