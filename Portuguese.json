@@ -64,6 +64,8 @@
   "PlayerAdminMenuNoBlinkString": "Sem piscada",
   "WorldAdminMenuForceRoundEndString": "Fim do round",
   "RoundForceEndedString": "O round foi finalizado pelo administrador",
+  "PlayerAdminMenuMuteString": "Mutar",
+  "PlayerAdminMenuUnmuteString": "Desmutar",
   "NPCNames": {},
   "MissionNames": {}
 }
